@@ -101,3 +101,23 @@
 ## 七、配置文件介绍
 
 ![](https://img2024.cnblogs.com/blog/2332774/202412/2332774-20241214233630546-362747482.png)
+
+## 八、全局配置
+
+**1.pages 配置**
+
+![](https://img2024.cnblogs.com/blog/2332774/202412/2332774-20241214233816773-1494416964.png)
+
+https://developers.weixin.qq.com/miniprogram/dev/reference/configuration/app.html#pages
+
+**2.window 配置**
+
+![](https://img2024.cnblogs.com/blog/2332774/202412/2332774-20241214234406149-632443994.png)
+
+https://developers.weixin.qq.com/miniprogram/dev/reference/configuration/app.html#window
+
+**3.tabbar 配置**
+
+![](https://img2024.cnblogs.com/blog/2332774/202412/2332774-20241214235041466-1199786041.png)
+
+https://developers.weixin.qq.com/miniprogram/dev/reference/configuration/app.html#tabBar
